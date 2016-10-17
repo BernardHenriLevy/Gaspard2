@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Switch
+        android:text="Couvert"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:padding="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchCouvert"
+        android:layout_alignTop="@+id/switchGratuitUniquement"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="75dp"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:text="Rayon de recherche"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="40dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"
+        android:id="@+id/textRayonRecherche"
+        android:layout_marginTop="48dp"
+        android:layout_below="@+id/switchGratuitUniquement"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Switch
+        android:text="Gratuit uniquement"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:padding="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchGratuitUniquement"
+        android:layout_marginTop="39dp"
+        android:layout_below="@+id/Filtres"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/colorPrimary"
+        android:splitTrack="false" />
+
+    <EditText
+        android:id="@+id/saisieRayon"
+        android:layout_width="100dp"
+        android:inputType="number"
+        android:hint="100-1500m"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:background="#eeeeee"
+        android:layout_height="30dp"
+        android:layout_alignBaseline="@+id/textRayonRecherche"
+        android:layout_alignBottom="@+id/textRayonRecherche"
+        android:layout_toRightOf="@+id/textRayonRecherche"
+        android:layout_toEndOf="@+id/textRayonRecherche"
+        android:textColor="@android:color/background_dark" />
+
+    <Button
+        android:text="Valider selection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textRayonRecherche"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp"
+        android:id="@+id/button2"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:backgroundTint="@android:color/holo_green_light" />
+
+    <TextView
+        android:text="Filtres"
+        android:layout_height="50dp"
+        android:id="@+id/Filtres"
+        android:textSize="30sp"
+        android:layout_width="200dp"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignStart="@+id/button2"
+        android:layout_marginLeft="22dp"
+        android:layout_marginStart="22dp" />
+
+
+</RelativeLayout>

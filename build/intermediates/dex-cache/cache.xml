@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_c7f1e28decb4e948702fcb984c7df153179294bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.1_4ef2004e0966d54fa1bef34dd6e2760393bf1eb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.1_be863efb30b6efca5f9a5f4a2cc64c435a8d2b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9cfa46f5532b6c4c5ece72d1b10fdf701b21c851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.1_0ed5fedf66373ef8a398396f45db0e25f41dbb1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_1da4fa3f643eafcf4948e4f8b1ebdeba810e0533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_6beeba5afd000d14b58cc46fea21596c14ddfcce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_2a3fb8a2901db5680e4f1566a0219a07231faf85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_31d468555f9f40063db547dfdd07d26fc683d0a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_d6fd824e0b1fd31d846d1b41dcb8b034895eba1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e38343c0f7e07c3a23a57d0a69ed39ad2db9ae4">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fc51aa28e25b62ede15e74d31503028c81095799\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_f24944a55d0c254c1bb5ee6412a19b84c472efa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_162e0d0254e40924b6d0b4fe35a736755a59c554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_b28c041c3222cc605d05ae7d035173b44ae1a343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.1_f658dae730e5411f1e71f161a5f6064f6c614756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_1bb433e9b702c98a169549a3b2bfceb4d1791c80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_4825f7999874b645470c558fb651eb6dbee66807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_58c20cdb463bdaa2c78bbc820875941488fe56c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.1_c31ceb64b3b5455140aa9f41b7013c061e828fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_0f789a0c9f05d320e19ef987737abf03a8de6b8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_e2f72087449e56c5d904f2e14e4194971abced68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_7cda7db3858d6e9e7ca59520ecd8a46ea5e854af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_35a75886b942e2432dfda155ce4b02a177377586\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_05a8267581ab89b3a93f6bcb4d251ef82e907038\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="91e8c5bc2338099a61cf13990ead425424ba3945">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a9455cbd987992df3dfca99ab64a26079777f00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_7378a74130305c016b9322c1f209f4c009122ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_6204716c0a83be9b814330c51915f5dbbc8a5dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_62c16312229e4111fdd3c55b504d7a86500b8516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.1_27e12f8bd8a8e24509647667e74dbd79d5d7c976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_ad9784fc83966455d823844ffc4593047c7f143c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_97405a768fb8ebe63eeacc706ed6a929ad6ef12b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6e03b87ab0186be2bf678f64f2243a342a555580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.1_0286142086f53777e3b3eda35fae3436868ff3de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_40ae05a3a897972da11fab148eff97e1aa877aa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_1adac85ad8aa955e34b2269ef011d3fe6b4100c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.1_ce3d16a36aab43787a206d428cbebd1c3efe9871\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.1_41d8fe1435271cd592ab25c1088c66b500963674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_650214a9906f995ceb3ef6c57c6daee330a6391a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_606c2bcd25e85259aef0555c2ae687ed0263c503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_22634dd2e144ebbb0044862b330b4bc718a1e9bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.1_c4a37eb4a762ec84250c91296e1b056c73a70447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a16d88545087b40d1694b00ca462528622e53fd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.1_ece616c9a9418221fbd42598b1aa38043f9f40f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_0dc952e0b9b190644917ba1468cbf62ad22a26ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_640dc9a15b12eaa27ec0b1a17543bb079ce2e6a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9953680a8b9be2a2c9190779e9f609374c2ce497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_d78ea7c96db74043b240ae383b462e72df01fb1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.1_403ba9dfab63fe68dfb92d0bcaf9eaf31799c785\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_d6b524295daea3bff94bd8d165be0c864529aac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_5dff49ed7b23d998c9249ab46a59d5a6b5af7176\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_a01cfcb848f925d82fda2a8bd80a2000a537cae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_b46714f4c815471342cc4afe5254d8d49e1130a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_1fbeef3059730a8d1b853f41866ad2cc7bd3ad5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8d7984433f9339825ee30b5419c7624065544a1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_e1bf757fed82d056c88355e96b715c17d3d3e85b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_64c74f7acdfa666d85aa6b23f1c0c3c855d0bfb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_0c3f2a03de314a3559c8b422157c82983254bc55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_ec2c17701c473b5ecb1d50820a94a7a5a35323a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_f31d50500333ca81cf2079079ca36229b737bfd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_6210f18bed35053b2434d8652330378b1aedbd09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_883f31560beb893d0e9f518c859f5fd8ea619a1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.1_d8ac4edc8ddbaa066d2f05b24dbbb2ae6641a346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_d306fe634c52fa3ecc86cac54ced1bd8eab9dc14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_1ef977863396953d7b90ecd9bf23c3d717fb8a99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_255a10997a448f5ec2f2abe2d2222481952d8afe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_15b6400b5eb32fc14b9f93144a4c75a298a55ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.1_84b24126cb76d2a2d55a7ba4c3c65d1a1de1fa18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_3039fcbd68d4a3d56f8422e094664e543311488a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_0ae33c408e53a21668d659455774c94a1a2abc6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_771ce0919ff9c6f2313ea1439f2172521f10d2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="C:\Users\Utilisateur\AndroidStudioProjects\IZYPARK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_36650fab150d8470e500ff5f852504ef53e7ccf8\classes.dex" />
+    </item>
+
+</items>
